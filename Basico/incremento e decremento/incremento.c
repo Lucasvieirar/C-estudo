@@ -1,6 +1,6 @@
 #include <stdio.h>
 /* 
-    Resto da divisão
+    Incremento
 
 */
 int main() {
