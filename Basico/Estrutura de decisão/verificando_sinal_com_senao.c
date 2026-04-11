@@ -11,6 +11,8 @@ int main() {
    printf("\nDigite um valor: ");
    scanf("%d", &a);
 
+    printf("\nResultado logico: %d\n", a < 0);
+
    if(a < 0){
     printf("\nO numero é negativo");
    }
