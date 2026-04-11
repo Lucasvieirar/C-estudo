@@ -2,6 +2,8 @@
 #include <stdlib.h>
 /* 
     Verificando se é negativo
+
+
 */
 int main() {
    int a;
@@ -11,6 +13,9 @@ int main() {
 
    if(a < 0){
     printf("\nO numero é negativo");
+   }
+   else{
+    printf("\nO numero é positivo");
    }
    
    return 0;
